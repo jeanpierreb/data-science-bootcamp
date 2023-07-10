@@ -9,19 +9,20 @@ The courses Kaggle offers are designed to be easy and accessible without sacrifi
 1. Intro to Programming
 2. Python Course
 3. Intro to Machine Learning
-4. Intermediate Machine Learning
-5. Data Visualization
-6. Feature Engineering
-7. Intro to SQL
-8. Advanced SQL
-9. Intro to Deep Learning
-10. Computer Vision
-11. Time Series
-12. Data Cleaning
-13. Intro to AI Ethics
-14. Geospatial Analysis
-15. Machine Learning Explainability
-16. Intro to Game AI and Reinforcement Learning
+4. Pandas
+5. Intermediate Machine Learning
+6. Data Visualization
+7. Feature Engineering
+8. Intro to SQL
+9. Advanced SQL
+10. Intro to Deep Learning
+11. Computer Vision
+12. Time Series
+13. Data Cleaning
+14. Intro to AI Ethics
+15. Geospatial Analysis
+16. Machine Learning Explainability
+17. Intro to Game AI and Reinforcement Learning
 
 ### Fast.ai
 Fast ai is incredibly well reviewed by people interested in Deep Learning. These are a hybrid between courses and books and should be fairly easy reads, especially after going through the Kaggle material.
